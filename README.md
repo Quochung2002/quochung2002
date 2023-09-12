@@ -3,7 +3,7 @@
 Welcome to my GitHub page! My name is Hung Tran and I'm a Data Analytics & Global Commerce double major at Denison University. I'm passionate about data visualization and quantitative research in global financial markets. My research focuses on 2 major fields of data science: descriptive and prescriptive analytics. With descriptive analytics, I have experience working with multiple Cultural Text Analysis and Image Classification research projects using TensorFlow, Scikitlearn, and Computer Vision (CV2) packages. With prescriptive analysis, my focus is driven by the analysis of data backed up with optimization methodologies such as Multi-Arm Bandits and Travelling Salesman utilizing the Gurobi Python package. 
 
 
-I'm looking to learn more from the GitHub community about the field of operation research and financial engineering
+I'm looking to learn more from the GitHub community about the field of operation research and financial engineering using advanced mathematical methods and application of Python Programming.
 
 ![Data_Science](./7-Benefits-of-Data-Science.jpg)
 
