@@ -2,11 +2,7 @@
 
 Welcome to my GitHub page! My name is Hung Tran and I'm a Data Analytics & Global Commerce double major at Denison University. I'm passionate researching about data visualization and quantitative research in global financial markets. My research focuses on 2 major fields of data science: descriptive and prescriptive analytics. With descriptive analytics, I have experience working with multiple 
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.analyticsinsight.net/wp-content/uploads/2021/08/7-Benefits-of-Data-Science.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://www.analyticsinsight.net/wp-content/uploads/2021/08/7-Benefits-of-Data-Science.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://www.analyticsinsight.net/wp-content/uploads/2021/08/7-Benefits-of-Data-Science.jpg">
-</picture>
+![Data_Science](https://www.analyticsinsight.net/wp-content/uploads/2021/08/7-Benefits-of-Data-Science.jpg)
 
 <!--
 
