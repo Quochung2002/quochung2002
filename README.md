@@ -3,6 +3,7 @@
 Welcome to my GitHub page! My name is Hung Tran and I'm a Ph.D student at Virginia Tech. I'm passionate about contextual optimization and stochastic research in quantitative finance and econophysics. 
 
 Research fields of interest: 
+* Jack-knife-based Stochastic Optimization
 * Genetic Algorithms (GAs) optimization & Quantum Finance Schrödinger Equation (QFSE).
 * Feynman’s Path Integral models in Asset Pricing. 
 * Lévy flight & Markov Chain Monte Carlo (MCMC) methods.
