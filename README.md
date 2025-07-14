@@ -10,9 +10,10 @@ Research fields of interest:
 * Lévy flight & Markov Chain Monte Carlo (MCMC) methods.
 
 Teaching Experience:
-* Theory of organization
 * Advanced math modeling in prescriptive analytics
 * Operations research & business analytics
+* Theory of organization
+* Fundamental Probabilities and statistics for industrial & Systems Engineers
 
 Key Technical Skills: 
 * Programming languages: Python | R | C/C++ | SQL | AMPL | CPLEX | STATA
