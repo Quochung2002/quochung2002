@@ -15,7 +15,7 @@ Teaching Experience:
 * Operations research & business analytics
 
 Key Technical Skills: 
-* Programming languages: Python | Java | C/C++ | SQL | R | AMPL | CPLEX | STATA
+* Programming languages: Python | R | C/C++ | SQL | AMPL | CPLEX | STATA
 * Establishing financial models relating to portfolio optimization and investment plans
 * Constructing interactive visualizations using VizQL on Tableau visualization packages
 
