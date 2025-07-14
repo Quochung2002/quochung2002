@@ -4,6 +4,7 @@ Welcome to my GitHub page! My name is Hung Tran and I'm a Ph.D student at Virgin
 
 Research fields of interest: 
 * Finite-horizon, Discrete-time Processes in Incentive Mechanism.
+* Physics-Informed Neural Networks (PINNs) and Physics-Informed Kolmogorov-Arnold Neural Networks (PIKANs) Designs
 * Genetic Algorithms (GAs) optimization.
 * Feynman’s Path Integral models in Asset Pricing. 
 * Lévy flight & Markov Chain Monte Carlo (MCMC) methods.
