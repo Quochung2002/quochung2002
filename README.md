@@ -20,8 +20,6 @@ Key Technical Skills:
 * Establishing financial models relating to portfolio optimization and investment plans
 * Constructing interactive visualizations using VizQL on Tableau visualization packages
 
-Resume link: file:///Users/hungtran/Documents/Resume/Hung_Tran_Resume.pdf
-CV link: file:///Users/hungtran/Documents/Resume/Hung_Tran_CV.pdf
 
 I'm looking to learn more from the GitHub community about the field of operation research and financial engineering using advanced mathematical methods and application of Computer Programming.
 
