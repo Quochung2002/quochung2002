@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-Welcome to my GitHub page! My name is Hung Tran and I'm a Ph.D student at Virginia Tech. I'm passionate about contextual optimization and stochastic research in quantitative finance and econophysics. 
+Welcome to my GitHub page! My name is Hung Tran and I'm a Ph.D student at Virginia Tech. I'm passionate about contextual optimization and stochastic research in quantitative finance and econophysics. You can find more information about my CV/Resume under CV/Resume repository!
 
 Research fields of interest: 
 * Finite-horizon, Discrete-time Processes in Incentive Mechanism.
